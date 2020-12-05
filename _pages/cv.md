@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can fine my CV [here](../files/Porth_CV.pdf) (last updated: December 2020)
+You can find my CV [here](../files/Porth_CV.pdf) (last updated: December 2020)
