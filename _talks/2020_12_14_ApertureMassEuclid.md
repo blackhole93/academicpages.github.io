@@ -8,7 +8,7 @@ date: 2020-12-14
 location: ""
 ---
 
-[Slides](../files/paper1.pdf) for more information
+[Slides](../files/paper1.pdf)
 
 ### Abstract
 Put abstract here
