@@ -5,6 +5,6 @@ that can be applied to ongoing and future surveys. <br/><img src='/images/500x30
 collection: projects
 ---
 
-Here follows a description of the project 
+Here follows a description of the project
 <br/>
-Here follows a link
+Here follow links to related papers and software
