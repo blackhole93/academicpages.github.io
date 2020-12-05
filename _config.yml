@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Porth"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Lucas Porth"
 description              : &description "PhD candidate in cosmology"
